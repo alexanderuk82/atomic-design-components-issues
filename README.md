@@ -31,8 +31,8 @@ Do you have an idea to improve the plugin? We'd love to hear it!
 
 ## 🔗 Useful Links
 
-- [Plugin on Figma Community](https://www.figma.com/community/plugin/[YOUR-ID-HERE])
-- [Documentation](https://www.figma.com/community/plugin/[YOUR-ID-HERE])
+- [Plugin on Figma Community](https://www.figma.com/community/plugin/1447124280260697980/atomic-design-components)
+- [Documentation](https://www.figma.com/design/6WbrNcUZauJI5so9Y3LSV4/Plugin-playground?node-id=1-2326&t=GIdRuENL91Zpfpl1-1)
 
 ## ⚖️ License
 
